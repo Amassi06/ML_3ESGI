@@ -9,6 +9,7 @@ dependencies = [
     "pandas>=2.2",
     "scikit-learn>=1.5",
     "matplotlib>=3.9",
+    "xgboost>=2.1",
 ]
 
 [dependency-groups]
